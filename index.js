@@ -1,2 +1,2 @@
-const currentUser = 'Dumb romi'
+const currentUser = 'Dumb romi';
 
