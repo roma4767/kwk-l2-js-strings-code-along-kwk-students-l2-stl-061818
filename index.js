@@ -1,4 +1,4 @@
 const currentUser = 'Dumb romi';
 
-const welcomeMessage = currentUser
+const welcomeMessage = 'Welcome to Klo'
 
