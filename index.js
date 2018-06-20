@@ -1,0 +1,2 @@
+const currentUser = 'Dumb romi'
+
